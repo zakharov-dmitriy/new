@@ -1,5 +1,6 @@
 {
 	"name": "your name",
 	"age": 18,
-	"city": "Your city"
+	"city": "Your city",
+	"country": "Country"
 }
