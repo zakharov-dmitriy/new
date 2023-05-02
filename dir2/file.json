@@ -2,5 +2,6 @@
 	"name": "your name",
 	"age": 35,
 	"city": "Your city",
-	"language": "eu"
+	"country": "Country",
+	"language": "ru"
 }
