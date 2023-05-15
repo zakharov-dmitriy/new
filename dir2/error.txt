@@ -1,0 +1,4 @@
+  "error 10:22:29.620 Error_session_expired",
+  "error 10:22:41.114 Strophe:  _onIdle() error : this.socket is null",
+  "error 10:22:29.620 Error_session_expired",
+  "error 10:22:41.114 Strophe:  _onIdle() error : this.socket is null",
